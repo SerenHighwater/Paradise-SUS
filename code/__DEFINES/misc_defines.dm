@@ -216,11 +216,11 @@
 #define RIGHT_EAR_LAYER			28
 #define BELT_LAYER				27	//Possible make this an overlay of something required to wear a belt?
 #define SPECIAL_NECK_LAYER		26
-#define SUIT_LAYER				25
-#define SPECIAL_BELT_LAYER		24
-#define NECK_LAYER				23
-#define SUIT_STORE_LAYER		22
-#define HEAD_ACCESSORY_LAYER	21
+#define HEAD_ACCESSORY_LAYER	25
+#define SUIT_LAYER				24
+#define SPECIAL_BELT_LAYER		23
+#define NECK_LAYER				22
+#define SUIT_STORE_LAYER		21
 #define BACK_LAYER				20
 #define FHAIR_LAYER				19
 #define GLASSES_LAYER			18
